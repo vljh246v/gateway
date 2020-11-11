@@ -1,0 +1,2 @@
+http:
+  httpbin: http://httpbin.org:80
